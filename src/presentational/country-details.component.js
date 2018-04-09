@@ -1,4 +1,5 @@
 import React from 'react';
+import styles from '../country.css';
 
 const CountryDetails = (props) => (
     <div className="country-wrapper">

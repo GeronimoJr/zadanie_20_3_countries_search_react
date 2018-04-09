@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-//import 'bootstrap/dist/css/bootstrap.css';
-//import 'bootstrap/dist/css/bootstrap-theme.css';
+import styles from '../country.css';
 
 const Navigation = props => (
     <div>
